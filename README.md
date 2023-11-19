@@ -1,2 +1,2 @@
 # ProjectGitHub
-To learn GitHub
+To study Git
